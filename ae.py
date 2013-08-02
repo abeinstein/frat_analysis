@@ -1,4 +1,4 @@
-# get_ae.py (get it? haha)
+# ae.py (get it? haha)
 # Script that will tell you which of your friends are AEPi's! (in case you forgot)
 
 import facebook
